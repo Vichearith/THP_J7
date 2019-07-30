@@ -1,4 +1,4 @@
-# The Hacking Project - Jour 7 - Petits programmes de mise en chauffe
+# The Hacking Project - Semaine 2 - Mardi
 
 ## Multiples de 3 et 5
 
